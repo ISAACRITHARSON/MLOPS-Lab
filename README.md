@@ -1,4 +1,2 @@
 # MLOPS-Lab
-nil isaac
-nnn
-ihb
+Welcome to MLOPS
